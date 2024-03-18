@@ -2,6 +2,7 @@
 <p>First-Year AI/ML Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms with Statistics. Learning Web Development •PYTHON •HTML •CSS •NodeJS</p>
 
 
+
 <img align="right" height="150" src="https://pbs.twimg.com/profile_images/1738463380653150208/w37aA1pb_400x400.jpg"  />
 
 ###
