@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Manas Saxena and I'm an Undergrad student of CSE(Artificial Intelligence and Machine Learning)</h2>
-<p>First-Year AI/ML Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms with Statistics. Learning Web Development •PYTHON •HTML •CSS •NodeJS</p>
+<p>First-Year AI/ML Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms with Statistics. Aspiring MERN Stack Web Developer •PYTHON •HTML •CSS •NodeJS</p>
 
 
 
