@@ -25,7 +25,7 @@
   <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" height="60" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/next/next-original.svg" height="60" alt="javascript logo"  />
   <img width="20" />
   
 
